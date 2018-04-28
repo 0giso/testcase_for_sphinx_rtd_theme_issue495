@@ -1,9 +1,8 @@
 # Ｓｔｅｐｓ　ｔｏ　Ｒｅｐｒｏ
 
-1. Click "Ｃｌｉｃｋ　ｍｅ" in TOC.  
-3rd level in TOC will be opened.
+1. Click "Ｃｌｉｃｋ　ｍｅ" in TOC. 3rd level in TOC will be opened.
 
-2. Click "Ｃｏｌｌａｐｓｅ！", then it collapsed.
+2. Click "Ｃｏｌｌａｐｓｅ！" in TOC, then it collapsed.
 
 ## Ｃｌｉｃｋ　ｍｅ
 
