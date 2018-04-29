@@ -1,3 +1,17 @@
 # testcase_for_sphinx_rtd_theme_issue495
 
-Build with python 2 and sphinx_rtd_them installed by pip.
+## What is this?
+
+This is a test document to reproduce https://github.com/rtfd/sphinx_rtd_theme/issues/495
+
+## Prerequisites 
+
+Python 2
+
+## Install packages
+
+    pip install sphinx recommonmark sphinx_rtd_theme
+
+## Build html
+
+    make html
