@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+## -*- coding: utf-8 -*-
 #
 # Configuration file for the Sphinx documentation builder.
 #
@@ -18,7 +18,7 @@ import sys
 import recommonmark
 from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
-sys.path.insert(0, 'sphinxcontrib/unicode_ids')
+#sys.path.insert(0, 'sphinxcontrib/unicode_ids')
 
 source_parsers = {
     '.md': CommonMarkParser
@@ -47,7 +47,7 @@ release = u'1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'unicode_ids',
+#    'unicode_ids',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
