@@ -1,13 +1,13 @@
-# Ｓｔｅｐｓ　ｔｏ　Ｒｅｐｒｏ
+# 再現手順
 
-1. Click "Ｃｌｉｃｋ　ｍｅ" in TOC. 3rd level in TOC will be opened.
+1. Click "คลิกที่นี่" in TOC. 3rd level in TOC will be opened.
 
-2. Click "Ｃｏｌｌａｐｓｅ！" in TOC, then it collapsed.
+2. Click "접고 있습니다" in TOC, then it collapsed.
 
-## Ｃｌｉｃｋ　ｍｅ
+## คลิกที่นี่
 
 This layer can be shown in TOC correctly.
 
-### Ｃｏｌｌａｐｓｅ！
+### 접고 있습니다
 
 This layer will be collapsed when title in TOC is clicked.
